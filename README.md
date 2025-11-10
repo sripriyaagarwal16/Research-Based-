@@ -71,6 +71,9 @@ Thank you,
 <Your Name>  
 🔗 [GitHub] | [LinkedIn] | [Google Scholar]
 
+```
+
+
 
 ### 📫 Tips
 - Personalize every email.  
