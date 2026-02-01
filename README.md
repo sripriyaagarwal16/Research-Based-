@@ -1,11 +1,11 @@
-# 🧠 Research Resources — A Complete Guide for Students & Early Researchers
+# Research Resources — A Complete Guide for Students & Early Researchers
 
 ![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 ![Category](https://img.shields.io/badge/Category-AI%2FML%20Research-orange)
 
-> 🚀 A one-stop repository to help students start their **research journey** — from choosing a topic, finding a mentor, and exploring papers, to writing and publishing a research paper.
+>  A one-stop repository to help students start their **research journey** — from choosing a topic, finding a mentor, and exploring papers, to writing and publishing a research paper.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 How to Choose a Research Topic
+## How to Choose a Research Topic
 
 Choosing the right topic is the foundation of a successful research project.
 
@@ -44,9 +44,9 @@ Choosing the right topic is the foundation of a successful research project.
 
 ---
 
-## 👩‍🏫 How to Approach a Professor / Mentor
+##  How to Approach a Professor / Mentor
 
-### 🧩 Preparation Before Contacting
+### Preparation Before Contacting
 - Read their **recent 2–3 papers**.  
 - Note one concrete area where you can contribute.  
 - Prepare a short 1-page research idea summary.
@@ -75,7 +75,7 @@ Thank you,
 
 
 
-### 📫 Tips
+###  Tips
 - Personalize every email.  
 - Attach a clean CV & sample work.  
 - If no reply in 2 weeks → send one polite follow-up.  
@@ -93,7 +93,7 @@ Thank you,
 | **IEEE Xplore / ACM DL** | Access official conference papers | [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org) / [https://dl.acm.org](https://dl.acm.org) |
 | **PubMed / PMC** | Biomedical or health-related studies | [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov) |
 
-### 🧠 Learning Platforms
+###  Learning Platforms
 - [Fast.ai: Practical Deep Learning for Coders](https://course.fast.ai/)
 - [deeplearning.ai by Andrew Ng (Coursera)](https://www.coursera.org/)
 - [Stanford CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)
@@ -151,9 +151,9 @@ To bring novelty:
 
 ---
 
-## 📝 How to Write a Research Paper
+##  How to Write a Research Paper
 
-### ✍️ Basic Format (IEEE / Elsevier / Springer)
+###  Basic Format (IEEE / Elsevier / Springer)
 1. **Title & Abstract**  
 2. **Introduction & Motivation**  
 3. **Related Work / Literature Review**  
@@ -163,7 +163,7 @@ To bring novelty:
 7. **Conclusion**  
 8. **References**
 
-### 🧩 Overleaf Templates
+###  Overleaf Templates
 - [IEEE Conference Template](https://www.overleaf.com/gallery/tagged/ieee)
 - [Elsevier Journal Template](https://www.overleaf.com/gallery/tagged/elsevier)
 - [Springer LNCS Template](https://www.overleaf.com/gallery/tagged/springer)
@@ -177,7 +177,7 @@ To bring novelty:
 
 ---
 
-## 🏆 Top Conferences & Journals
+##  Top Conferences & Journals
 
 ### 🔬 AI/ML/CV/NLP Conferences
 | Conference | Type | Usual Deadline |
